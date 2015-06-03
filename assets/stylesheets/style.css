@@ -1,0 +1,98 @@
+h1 {
+	font-size: 50px;
+	color: gray;
+	text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.candy {background:red; }
+
+
+
+h2 { font-size: 45px;
+     color: orange;
+     text-align: center;   
+
+    }
+
+p {
+	color:purple;
+	text-align:center;
+}
+
+
+ol {text-align:center;}
+
+li {text-align:center;}
+
+#tomato {
+	background: tomato;
+	text-align: center;}
+
+
+
+.blue-text {
+	color: blue;
+	font-size: 25px;
+}
+
+#red-text  {
+ color:red;
+ font-size:25px;
+
+}
+
+.popcorn {text-align: center;
+	       font-size: 54;}
+
+
+ .form size {size-width:27;}	       
+
+.footer
+{
+	height: 20px;
+	width: 500px;
+	margin: auto;
+	background: #336699;
+	color : #fff;
+	border: 10px solid yellow;
+	padding: 20px;
+
+}
+
+ 
+
+.chocolate
+
+{font-size: 22px;}
+
+
+
+
+body {
+    background-color: #b0c4de;
+
+}
+
+.address {text-align: center}
+
+
+
+.DivToScroll{   
+    background-color: #F5F5F5;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px 0 4px 0;
+    color: #3B3C3E;
+    font-size: 12px;
+    font-weight: bold;
+    left: -1px;
+    padding: 10px 7px 5px;
+}
+
+.DivWithScroll{
+    height:120px;
+    overflow:scroll;
+    overflow-x:hidden;
+}
+
+

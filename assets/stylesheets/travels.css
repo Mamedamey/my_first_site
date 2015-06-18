@@ -1,0 +1,61 @@
+.Global {font-size: large;
+           text-align: center;}
+
+.header { font-family: 'Cardo', serif;
+             font-size: 100;
+           text-align: center;}
+
+.beyonce
+    
+    {background-color: pink; 
+     background-size: 60px;
+     outline-width:thick;
+     outline color:gray;
+     margin:100;
+     outline-style:  dotted;
+       }
+
+ .center {text-align: center}
+
+ 
+
+  #boxing 
+  {width: 700px;
+  background-color: cyan;
+  border : 7px grey dotted;
+  padding: 50px; 
+  margin: 1.5%;
+  width: 30%;}
+
+  .boxing1 {width: 700px;
+  background-color: cyan;
+  border: 15px;
+  border : 7px grey dotted;
+  padding: 50px; 
+  margin: 1.5%;
+  width :30%;
+  float:left;}
+
+  .boxing2 {width: 700px;
+  background-color: cyan;
+  border: 15px;
+  border : 7px grey dotted;
+  padding: 50px; 
+  margin: 1.5%;
+   width: 30%;
+  float:left;}
+
+  .boxing3 {width: 700px;
+  background-color: cyan;
+  border: 15px;
+  border : 7px grey dotted;
+  padding: 50px; 
+  float:left;
+margin: 1.5%;
+  width: 30%;}
+
+
+
+  html  {margin: auto;
+  background: gold;
+  width: 66%; }
